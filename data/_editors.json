@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "aún no",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Tikon1",
+        "link": ""
     },
     {
         "role": "admin",
@@ -10,9 +10,19 @@
         "link": "https://youtube.com/@lttk_nuk?si=1BCbBkR-vYoWhpv2"
     },
     {
+        "role": "admin",
+        "name": "Kwii",
+        "link": "https://youtube.com/@kawiindii?si=2Sf-7XMASeoIjrw3"
+    },
+    {
+        "role": "admin",
+        "name": "Gregory777",
+        "link": ""
+    },
+    {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "LAUTYGAMER",
+        "link": ""
     },
     {
         "role": "trial",
@@ -21,7 +31,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "NuK",
+        "link": "https://youtube.com/@lttk_nuk?si=1BCbBkR-vYoWhpv2"
     }
 ]
